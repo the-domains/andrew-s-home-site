@@ -1,0 +1,14 @@
+layout_spectrum: 0.513143
+typography_spectrum: 0.9308633
+color:
+  saturation: 0.003891348
+  lightness: 0.8558472
+  brandStrength: 1
+  brandColors:
+    - '#2F4377'
+    - '#0E0F14'
+    - '#FCFFF3'
+    - '#CF7F39'
+    - '#30FFBD'
+  rhythmicContrast: 0.4550548
+name: "Andrew's Home Site"
